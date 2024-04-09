@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Ruby on Rails, Python, R and Golang
 - 📫 How to reach me 
 - https://www.linkedin.com/in/derekayala/
-- derek.ayala12345@hotmail.com
+- derek.moises.ayala@hotmail.com
