@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DerekAyala
-- 👀 I’m interested in learning new technologies. 
-- 🌱 I’m currently learning Ruby on Rails, Python, R and Golang
 - 📫 How to reach me 
 - https://www.linkedin.com/in/derekayala/
 - derek.moises.ayala@hotmail.com
